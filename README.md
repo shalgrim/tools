@@ -1,9 +1,7 @@
-# tools
+# tools (sunset)
 
-Personal monorepo of small utilities. Each tool lives in its own directory.
+This repo is retired. Its one tool, `cleanup-claude-code-paste`, moved to my dotfiles so I only track one repo for personal tooling + Claude Code skills:
 
-## Tools
+- **New home:** `dotfiles` repo → `claude-skills/cleanup-claude-code-paste/` (github.com/shalgrim/dotfiles)
 
-| Tool | Description |
-| --- | --- |
-| [cleanup-claude-code-paste](cleanup-claude-code-paste/) | Clean up pasted Claude Code terminal output — strip `❯` prompts, unwrap lines, preserve paragraphs. |
+Nothing new should land here. Left in place for git history.
